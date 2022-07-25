@@ -719,7 +719,7 @@ img {
         height: 250px; } }
 
 .popular-course-details-area .single-top-popular-course {
-  margin-bottom: 0; }
+  margin-bottom: 50px; }
   .popular-course-details-area .single-top-popular-course .popular-course-content {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 570px;
