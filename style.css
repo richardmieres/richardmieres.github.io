@@ -623,6 +623,29 @@ img {
 .single-course-area:hover .course-content h4, .single-course-area:focus .course-content h4 {
   color: #69bc5f; }
 
+
+.Tec_infoimg {
+  height: 600px;
+  width: 100%;
+}
+
+.information_course {
+  margin: 40px;
+}
+
+
+.subtex {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  margin: 20px 10px;
+  text-align: center;
+}
+
+.pcourse {
+  font-size: 15px;
+  padding: 10px;
+}
+
 /* Testimonials Area CSS */
 .single-testimonial-area {
   position: relative;
@@ -942,8 +965,7 @@ img {
     text-align: center;
     font-size: 22px;
     font-weight: 700;
-    -webkit-transition-duration: 500ms;
-    transition-duration: 500ms; }
+    }
     @media only screen and (max-width: 767px) {
       .about-slides .owl-prev,
       .about-slides .owl-next {
