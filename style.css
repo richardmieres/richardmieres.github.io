@@ -633,7 +633,10 @@ img {
   margin: 40px;
 }
 
-
+.noticias {
+  width: 100%;
+  margin-top: 60px;
+}
 .subtex {
   font-family: "Montserrat", sans-serif;
   font-size: 30px;

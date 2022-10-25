@@ -29,9 +29,7 @@ geocoder_map.geocode({
             map: map,
             position: map.getCenter()
         });
-    } else {
-        alert("Geocode was not successful for the following reason: " + status);
-    }
+    } 
 });
 var mapType = new google.maps.StyledMapType(stylez, {
     name: "Grayscale"
